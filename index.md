@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Ameer Haj Ali
 
-You can use the [editor on GitHub](https://github.com/AmeerHajAli/ameerhajali.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ameer is a first-year Ph.D. student in the [ADEPT Lab](http://adept.eecs.berkeley.edu) and [RISE Lab](https://rise.cs.berkeley.edu/) at UC Berkeley. His current research is focused on Hardware/Software Codesign, Auto-Tuning, Machine Learning, Reinforcement Learning, ASIC Design, High Performance Computing, and hardware for machine learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ameer finished his M.Sc. studies at the Technion – Israel Institute of Technology in 2018, where he worked on using emerging memory technologies to enhance the performance of modern computer systems with Professor Shahar Kvatinsky and made multiple journal and conference publications. He received the B.Sc. degree in computer engineering, summa cum laude (the valedictorian), in 2017 from the Technion - Israel Institute of Technology. From 2015 to 2016 he was with Mellanox Technologies as a chip designer where he worked on creating design and automation tools that facilitated the formal and dynamic verification process.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +25,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmeerHajAli/ameerhajali.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
